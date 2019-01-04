@@ -1,2 +1,3 @@
-# head-first-C
-A Brain-Friendly Guide Head First C - David Griffiths
+# Head First C - David Griffiths & Dawn Griffiths
+
+A basic guide to capture the exercises and examples in the book.
